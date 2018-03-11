@@ -1,2 +1,2 @@
 # go_game_of_life
-My take at tutorial at KyleBanks/conways-gol
+My take on tutorial at [KyleBanks/conways-gol](https://github.com/KyleBanks/conways-gol).
